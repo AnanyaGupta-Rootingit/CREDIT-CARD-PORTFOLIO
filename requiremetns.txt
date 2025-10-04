@@ -1,0 +1,18 @@
+# Core
+streamlit
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Statistics & Modeling
+statsmodels
+scikit-learn
+scipy
+
+# Excel Support
+openpyxl
+xlrd
