@@ -1,6 +1,0 @@
-dash
-pandas
-numpy
-plotly
-dash-bootstrap-components
-gunicorn
